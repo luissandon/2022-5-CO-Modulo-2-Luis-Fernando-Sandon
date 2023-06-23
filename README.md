@@ -28,27 +28,6 @@
   <img src="https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/assets/Other/Chrome%20Dino.gif">
 </p>
 
-### Installation:
-
--	First of all, **clone the repository** using:
-```
-git clone https://github.com/dhhruv/Chrome-Dino-Runner.git
-``` 
-**OR**
-Download the Zip and extract it's contents.
-
--	Then download the dependencies in your Command Prompt OR Terminal using:
-```
-pip install requirements.txt
-```
-
-### Usage:
-
--	After installation, just run the [`chromedino.py`](https://github.com/dhhruv/Chrome-Dino-Runner/blob/master/chromedino.py) using
-```
-python chromedino.py
-```
-
 ### Input:
 
 | Keys              | Actions                                                       |
